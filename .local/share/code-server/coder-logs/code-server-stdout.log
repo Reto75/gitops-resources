@@ -1,0 +1,21 @@
+[2021-04-28T11:38:25.067Z] info  code-server 3.9.0 fc6d123da59a4e5a675ac8e080f66e032ba01a1b
+[2021-04-28T11:38:25.067Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-04-28T11:38:25.077Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-04-28T11:38:25.077Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-04-28T11:38:25.078Z] info    - Authentication is enabled
+[2021-04-28T11:38:25.078Z] info      - Using password from $PASSWORD
+[2021-04-28T11:38:25.078Z] info    - Not serving HTTPS 
+[2021-04-28T11:58:28.039Z] info  code-server 3.9.0 fc6d123da59a4e5a675ac8e080f66e032ba01a1b
+[2021-04-28T11:58:28.040Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-04-28T11:58:28.048Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-04-28T11:58:28.048Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-04-28T11:58:28.048Z] info    - Authentication is enabled
+[2021-04-28T11:58:28.048Z] info      - Using password from $PASSWORD
+[2021-04-28T11:58:28.048Z] info    - Not serving HTTPS 
+[2021-04-29T17:44:50.612Z] info  code-server 3.9.0 fc6d123da59a4e5a675ac8e080f66e032ba01a1b
+[2021-04-29T17:44:50.614Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-04-29T17:44:50.635Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-04-29T17:44:50.638Z] info  HTTP server listening on http://0.0.0.0:8080 
+[2021-04-29T17:44:50.638Z] info    - Authentication is enabled
+[2021-04-29T17:44:50.638Z] info      - Using password from $PASSWORD
+[2021-04-29T17:44:50.638Z] info    - Not serving HTTPS 

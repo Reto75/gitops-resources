@@ -1,0 +1,12 @@
+contexts:
+- name: argocd.techlab.openshift.ch
+  server: argocd.techlab.openshift.ch
+  user: argocd.techlab.openshift.ch
+current-context: argocd.techlab.openshift.ch
+servers:
+- grpc-web: true
+  grpc-web-root-path: ""
+  server: argocd.techlab.openshift.ch
+users:
+- auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MjAyMDI4ODUsImlzcyI6ImFyZ29jZCIsIm5iZiI6MTYyMDIwMjg4NSwic3ViIjoiaGFubmVsb3JlIn0.l_gyuMc34eW7UaN4GBT7InVJQLjUVZ8kMxjf5mseI6I
+  name: argocd.techlab.openshift.ch
